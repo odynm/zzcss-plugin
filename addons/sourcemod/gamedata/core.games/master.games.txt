@@ -1,0 +1,10 @@
+"Game Master"
+{
+	"common.games.txt"
+	{
+	}
+	"engine.ep1.txt"
+	{
+		"engine"	"original"
+	}
+}

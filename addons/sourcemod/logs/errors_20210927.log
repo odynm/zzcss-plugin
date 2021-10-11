@@ -1,0 +1,32 @@
+L 09/27/2021 - 00:36:15: SourceMod error session started
+L 09/27/2021 - 00:36:15: Info (map "cs_compound") (file "errors_20210927.log")
+L 09/27/2021 - 00:36:15: [SM] Native "CS_GetTeamScore" reported: Invalid team index passed (1).
+L 09/27/2021 - 00:36:15: [SM] Displaying call stack trace for plugin "mp_halftime.smx":
+L 09/27/2021 - 00:36:15: [SM]   [0]  Line 63, C:\Users\mathias.ody\Downloads\mp_halftime.sp::Command_SwitchSides()
+L 09/27/2021 - 00:36:22: [SM] Native "CS_GetTeamScore" reported: Invalid team index passed (1).
+L 09/27/2021 - 00:36:22: [SM] Displaying call stack trace for plugin "mp_halftime.smx":
+L 09/27/2021 - 00:36:22: [SM]   [0]  Line 63, C:\Users\mathias.ody\Downloads\mp_halftime.sp::Command_SwitchSides()
+L 09/27/2021 - 00:36:40: [SM] Native "CS_GetTeamScore" reported: Invalid team index passed (1).
+L 09/27/2021 - 00:36:40: [SM] Displaying call stack trace for plugin "mp_halftime.smx":
+L 09/27/2021 - 00:36:40: [SM]   [0]  Line 63, C:\Users\mathias.ody\Downloads\mp_halftime.sp::Command_SwitchSides()
+L 09/27/2021 - 00:39:39: [SM] Native "CS_GetTeamScore" reported: Invalid team index passed (1).
+L 09/27/2021 - 00:39:39: [SM] Displaying call stack trace for plugin "mp_halftime.smx":
+L 09/27/2021 - 00:39:39: [SM]   [0]  Line 63, C:\Users\mathias.ody\Downloads\mp_halftime.sp::Command_SwitchSides()
+L 09/27/2021 - 17:26:26: SourceMod error session started
+L 09/27/2021 - 17:26:26: Info (map "de_dust2") (file "errors_20210927.log")
+L 09/27/2021 - 17:26:26: [SM] Native "SetEntProp" reported: Property "m_iStartAccount" not found (entity 2/player)
+L 09/27/2021 - 17:26:26: [SM] Displaying call stack trace for plugin "zz_plugin.smx":
+L 09/27/2021 - 17:26:26: [SM]   [0]  Line 113, C:\Users\mathias.ody\Downloads\zz_plugin.sp::Command_SwitchSides()
+L 09/27/2021 - 17:26:31: [SM] Native "SetEntProp" reported: Property "m_iStartAccount" not found (entity 2/player)
+L 09/27/2021 - 17:26:31: [SM] Displaying call stack trace for plugin "zz_plugin.smx":
+L 09/27/2021 - 17:26:31: [SM]   [0]  Line 113, C:\Users\mathias.ody\Downloads\zz_plugin.sp::Command_SwitchSides()
+L 09/27/2021 - 17:26:37: [SM] Native "SetEntProp" reported: Property "m_iStartAccount" not found (entity 2/player)
+L 09/27/2021 - 17:26:37: [SM] Displaying call stack trace for plugin "zz_plugin.smx":
+L 09/27/2021 - 17:26:37: [SM]   [0]  Line 113, C:\Users\mathias.ody\Downloads\zz_plugin.sp::Command_SwitchSides()
+L 09/27/2021 - 17:27:57: Error log file session closed.
+L 09/27/2021 - 23:13:48: SourceMod error session started
+L 09/27/2021 - 23:13:48: Info (map "de_dust2") (file "errors_20210927.log")
+L 09/27/2021 - 23:13:48: [SM] Native "SetEntProp" reported: Property "m_iStartAccount" not found (entity 2/player)
+L 09/27/2021 - 23:13:48: [SM] Displaying call stack trace for plugin "zz_plugin.smx":
+L 09/27/2021 - 23:13:48: [SM]   [0]  Line 125, C:\Users\mathias.ody\Downloads\zz_plugin.sp::Command_SwitchSides()
+L 09/27/2021 - 23:14:03: Error log file session closed.
